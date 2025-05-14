@@ -1,0 +1,45 @@
+
+
+##
+## # Font
+##
+
+
+
+
+##
+## ## Package / Font / Noto
+##
+
+fonts-noto-cjk
+fonts-noto-core
+fonts-noto-mono
+fonts-noto-color-emoji
+
+
+
+
+##
+## ## Package / Font / DejaVu
+##
+
+fonts-dejavu
+
+
+
+
+##
+## ## Package / Font / Liberation
+##
+
+fonts-liberation2
+#fonts-liberation
+
+
+
+
+##
+## ## Package / Font / Jetbrains
+##
+
+#fonts-jetbrains-mono

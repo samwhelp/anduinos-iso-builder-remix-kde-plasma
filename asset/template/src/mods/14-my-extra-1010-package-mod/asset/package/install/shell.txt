@@ -1,0 +1,24 @@
+
+
+##
+## # Shell
+##
+
+
+
+
+##
+## ## Package / bash
+##
+
+bash
+bash-completion
+
+
+
+
+##
+## ## Package / fzf
+##
+
+fzf

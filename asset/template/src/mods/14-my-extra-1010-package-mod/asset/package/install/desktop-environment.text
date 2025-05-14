@@ -1,0 +1,44 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Xfce
+##
+
+## https://wiki.debian.org/KDE
+
+##kde-full
+kde-standard
+##kde-plasma-desktop
+
+
+kwin-addons
+
+
+kde-spectacle
+
+
+
+
+##
+## ## Package / Desktop Environment
+##
+
+accountsservice
+
+asunder
+atril
+
+
+gnome-disk-utility
+gnome-keyring
+gnome-nettool
+gnome-system-tools
+
+remmina

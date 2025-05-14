@@ -1,0 +1,57 @@
+
+
+##
+## # Display Manager
+##
+
+
+
+
+##
+## ## Package / accountsservice
+##
+
+accountsservice
+
+
+
+
+##
+## ## Package / lightdm
+##
+
+#lightdm
+#lightdm-settings
+
+
+
+
+
+##
+## ## Package / lightdm / greeter / gtk
+##
+
+#lightdm-gtk-greeter
+#lightdm-gtk-greeter-settings
+
+
+
+
+
+
+
+
+##
+## ## Package / sddm
+##
+
+sddm
+
+
+
+
+##
+## ## Package / sddm / theme
+##
+
+sddm-theme-maldives
