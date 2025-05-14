@@ -25,6 +25,10 @@ kwin-addons
 kde-spectacle
 
 
+plasma-nm
+kdenetwork
+
+
 yakuake
 konsole
 
@@ -61,6 +65,10 @@ kde-config-sddm
 
 plasma-discover
 plasma-discover-backend-flatpak
+
+
+
+
 
 
 
