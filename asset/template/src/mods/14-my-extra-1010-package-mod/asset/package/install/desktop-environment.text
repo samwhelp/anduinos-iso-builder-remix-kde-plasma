@@ -59,6 +59,12 @@ kde-config-sddm
 
 
 
+plasma-discover
+plasma-discover-backend-flatpak
+
+
+
+
 ##
 ## ## Package / Desktop Environment
 ##
