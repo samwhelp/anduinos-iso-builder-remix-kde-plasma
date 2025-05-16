@@ -8,6 +8,16 @@
 
 
 ##
+## ## Package / Font / Ubuntu
+##
+
+fonts-ubuntu
+fonts-ubuntu-console
+
+
+
+
+##
 ## ## Package / Font / Noto
 ##
 
