@@ -45,5 +45,5 @@ only-combine:
 
 
 tips-next-step:
-	@echo '[Next Step]: cd ~/work/anduinos-iso-builder-xfce/iso-profile'
+	@echo '[Next Step]: cd ~/work/anduinos-iso-builder-kde-plasma/iso-profile'
 .PHONY: tips-next-step
