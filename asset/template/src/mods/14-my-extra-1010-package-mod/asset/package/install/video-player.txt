@@ -1,0 +1,41 @@
+
+
+##
+## # Tool
+##
+
+
+
+
+##
+## ## Package / Tool / Video Player
+##
+
+
+
+
+##
+## ## Package / mpv
+##
+
+mpv
+
+
+
+
+##
+## ## Package / vlc
+##
+
+vlc
+
+
+
+
+##
+## ## Package / smplayer
+##
+
+smplayer
+smplayer-l10n
+smplayer-themes

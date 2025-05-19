@@ -1,0 +1,18 @@
+
+
+##
+## # Web Browser
+##
+
+
+
+
+##
+## ## Package / Web Browser / firefox
+##
+
+#firefox-esr
+#firefox-esr-locale-zh-hant
+#firefox-esr-locale-zh-hans
+#firefox-esr-locale-ja
+#firefox-esr-locale-ko

@@ -1,0 +1,138 @@
+
+
+##
+## # Terminal
+##
+
+
+
+
+##
+## ## Package / Terminal
+##
+
+
+
+
+##
+## ## Package / Terminal / sakura
+##
+
+sakura
+
+
+
+
+##
+## ## Package / Terminal / xfce4-terminal
+##
+
+#xfce4-terminal
+
+
+
+
+##
+## ## Package / Terminal / qterminal
+##
+
+#qterminal
+
+
+
+
+##
+## ## Package / Terminal / lxterminal
+##
+
+lxterminal
+
+
+
+
+##
+## ## Package / Terminal / mate-terminal
+##
+
+#mate-terminal
+
+
+
+
+##
+## ## Package / Terminal / gnome-terminal
+##
+
+#gnome-terminal
+
+
+
+
+##
+## ## Package / Terminal / tilix
+##
+
+#tilix
+
+
+
+
+##
+## ## Package / Terminal / terminator
+##
+
+#terminator
+
+
+
+
+##
+## ## Package / Terminal / konsole
+##
+
+#konsole
+
+
+
+
+##
+## ## Package / Terminal (Drop Down) / yakuake
+##
+
+#yakuake
+
+
+
+
+##
+## ## Package / Terminal (Drop Down) / quake
+##
+
+#quake
+
+
+
+
+##
+## ## Package / Terminal (Drop Down) / tilda
+##
+
+#tilda
+
+
+
+
+##
+## ## Package / Terminal / kitty
+##
+
+#kitty
+
+
+
+
+##
+## ## Package / Terminal / foot
+##
+
+#foot

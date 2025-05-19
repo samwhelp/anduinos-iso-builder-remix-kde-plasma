@@ -39,3 +39,64 @@ vim
 ##
 
 neovim
+
+
+
+
+
+
+
+
+##
+## ## Package / gtksourceview
+##
+
+#libgtksourceview-3.0-common
+#libgtksourceview-4-common
+
+
+
+
+##
+## ## Package / gedit
+##
+
+#gedit
+
+
+
+
+##
+## ## Package / pluma
+##
+
+#pluma
+#pluma-plugins
+
+
+
+
+##
+## ## Package / mousepad
+##
+
+#mousepad
+
+
+
+
+##
+## ## Package / geany
+##
+
+geany
+
+
+
+
+##
+## ## Package / featherpad
+##
+
+featherpad
+feathernotes

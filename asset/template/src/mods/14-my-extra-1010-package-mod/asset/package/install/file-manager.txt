@@ -1,0 +1,75 @@
+
+
+##
+## # File Manager
+##
+
+
+
+
+##
+## ## Package / File Manager / pcmanfm-qt
+##
+
+#pcmanfm-qt
+
+
+
+
+##
+## ## Package / File Manager / pcmanfm
+##
+
+pcmanfm
+
+
+
+
+##
+## ## Package / File Manager / thunar
+##
+
+#thunar
+
+
+
+
+##
+## ## Package / File Manager / nemo
+##
+
+#nemo
+
+
+
+
+##
+## ## Package / File Manager / caja
+##
+
+#caja
+#caja-open-terminal
+#caja-actions
+#caja-wallpaper
+#caja-sendto
+#caja-extensions-common
+
+
+
+
+##
+## ## Package / File Manager / nautilus
+##
+
+#nautilus
+#nautilus-extension-gnome-terminal
+
+
+
+
+##
+## ## Package / File Manager / dolphin
+##
+
+#dolphin
+#dolphin-plugins
