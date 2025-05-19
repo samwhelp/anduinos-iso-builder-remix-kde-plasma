@@ -1,0 +1,21 @@
+
+
+##
+## # Extra
+##
+
+
+
+
+##
+## ## Package / Extra
+##
+
+htop
+
+lshw
+
+inxi
+
+neofetch
+fastfetch

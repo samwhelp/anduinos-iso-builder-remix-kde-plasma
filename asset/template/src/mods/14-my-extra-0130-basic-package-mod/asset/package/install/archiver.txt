@@ -1,0 +1,30 @@
+
+
+##
+## # Archiver
+##
+
+
+
+
+##
+## ## Package / Tool / Archiver
+##
+
+
+zstd
+
+
+zip
+unzip
+
+
+p7zip-full
+#p7zip-rar
+
+
+#rar
+unrar-free
+
+
+xorriso
