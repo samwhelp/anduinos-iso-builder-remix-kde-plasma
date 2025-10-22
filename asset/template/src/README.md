@@ -4,4 +4,4 @@
 
 | Source | Combine |
 | ------ | ------- |
-| AnduinOS / 1.3 / [src](https://github.com/Anduin2017/AnduinOS/tree/1.3/src) | [Combine](https://github.com/samwhelp/anduinos-iso-builder-remix-kde-plasma/tree/main/asset/template/src) |
+| AnduinOS / 1.3 / [src](https://github.com/Anduin2017/AnduinOS/tree/1.3/src) | [Combine](https://github.com/samwhelp/anduinos-iso-builder-remix-advance-kde-plasma/tree/main/asset/template/src) |

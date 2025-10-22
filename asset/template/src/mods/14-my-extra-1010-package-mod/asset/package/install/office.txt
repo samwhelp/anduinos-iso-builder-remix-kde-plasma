@@ -11,14 +11,14 @@
 ## ## Package / Tool / Office
 ##
 
-#libreoffice-calc
-#libreoffice-draw
-#libreoffice-impress
-#libreoffice-writer
-#libreoffice-gtk3
-#libreoffice-help-en-us
-#libreoffice-help-zh-tw
-#libreoffice-l10n-zh-tw
+libreoffice-calc
+libreoffice-draw
+libreoffice-impress
+libreoffice-writer
+libreoffice-gtk3
+libreoffice-help-en-us
+libreoffice-help-zh-tw
+libreoffice-l10n-zh-tw
 
 
 
@@ -27,8 +27,8 @@
 ## ## Package / Tool / PDF
 ##
 
-#okular
-#okular-backend-odp
-#okular-backend-odt
-#okular-extra-backends
-#okular-mobile
+okular
+okular-backend-odp
+okular-backend-odt
+okular-extra-backends
+okular-mobile
