@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [AnduinOS / ISO Builder / Remix / Kde Plasma](https://samwhelp.github.io/anduinos-iso-builder-remix-kde-plasma/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-kde-plasma) |
 | [AnduinOS / ISO Builder / Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-anduinos-iso-builder) |
+| [AnduinOS / Kde Plasma / Adjustment](https://samwhelp.github.io/anduinos-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/anduinos-kde-plasma-adjustment) |
 
 
 
