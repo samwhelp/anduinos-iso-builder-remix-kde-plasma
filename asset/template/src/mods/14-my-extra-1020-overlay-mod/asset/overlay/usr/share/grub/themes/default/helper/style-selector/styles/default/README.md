@@ -1,3 +1,0 @@
-
-
-# Grub Theme / Style / default
