@@ -1,0 +1,24 @@
+[PlasmaTransientsConfig]
+PreloadWeight=42
+
+[PlasmaViews][Panel 2]
+alignment=132
+floating=0
+panelLengthMode=0
+panelOpacity=2
+
+[PlasmaViews][Panel 2][Defaults]
+maxLength=1366
+minLength=128
+thickness=44
+
+[PlasmaViews][Panel 19]
+alignment=132
+floating=1
+panelLengthMode=1
+panelOpacity=2
+
+[PlasmaViews][Panel 19][Defaults]
+maxLength=1366
+minLength=128
+thickness=56

@@ -1,0 +1,38 @@
+
+
+##
+## # Archiver
+##
+
+
+
+
+##
+## ## Package / CLI Archiver
+##
+
+
+zstd
+
+
+zip
+unzip
+
+
+p7zip-full
+#p7zip-rar
+
+
+#rar
+unrar-free
+
+
+
+
+##
+## ## Package / GUI Archiver
+##
+
+engrampa
+#lxqt-archiver
+#xarchiver

@@ -1,0 +1,44 @@
+
+
+##
+## # Network
+##
+
+
+
+
+##
+## ## Package / Network / Util
+##
+
+iputils-ping
+
+
+
+
+##
+## ## Package / Network / Network Manager
+##
+
+network-manager
+network-manager-gnome
+
+
+nm-connection-editor
+network-manager-applet
+
+
+network-manager-openconnect-gnome
+network-manager-openvpn-gnome
+network-manager-pptp-gnome
+
+
+
+
+##
+## ## Package / Network / Bluetooth
+##
+
+bluetooth
+##bluez
+blueman

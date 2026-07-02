@@ -1,0 +1,26 @@
+
+
+##
+## # Downloader
+##
+
+
+
+
+##
+## ## Package / Downloader
+##
+
+wget
+curl
+
+yt-dlp
+
+
+
+
+##
+## ## Package / filezilla
+##
+
+filezilla

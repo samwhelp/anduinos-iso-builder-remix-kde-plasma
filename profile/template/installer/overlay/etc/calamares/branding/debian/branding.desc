@@ -1,0 +1,39 @@
+---
+componentName:   debian
+welcomeStyleCalamares: true
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 800px,580px
+windowPlacement: center
+
+strings:
+    productName:         Ubuntu GNU/Linux
+    shortProductName:    Ubuntu
+    version:             26.04
+    shortVersion:        26.04
+    versionedName:       Ubuntu 26.04 (Resolute Raccoon)
+    shortVersionedName:  Ubuntu 26.04
+    bootloaderEntryName: Ubuntu
+    productUrl:          https://ubuntu.com/
+    supportUrl:          https://ubuntu.com/
+    knownIssuesUrl:      https://ubuntu.com/
+    releaseNotesUrl:     https://ubuntu.com/
+    donateUrl:           https://ubuntu.com/
+
+sidebar: widget
+navigation: widget
+
+images:
+    productLogo:         "debian-logo.png"
+    productIcon:         "debian-logo.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+style:
+   SidebarBackground:    "#26475b"
+   SidebarText:          "#FFFFFF"
+   SidebarTextCurrent:   "#fbfbfb"
+   SidebarBackgroundCurrent: "#265370"
+
+slideshowAPI: 2

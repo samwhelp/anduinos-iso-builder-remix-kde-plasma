@@ -1,0 +1,18 @@
+
+
+##
+## # Extra
+##
+
+
+
+
+##
+## ## Package / Extra
+##
+
+htop
+
+lshw
+
+inxi

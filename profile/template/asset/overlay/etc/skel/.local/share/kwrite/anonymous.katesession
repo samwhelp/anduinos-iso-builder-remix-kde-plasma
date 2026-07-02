@@ -1,0 +1,13 @@
+[MainWindow0]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[MainWindow0][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[MainWindow0 Settings]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[MainWindow0 Settings][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly

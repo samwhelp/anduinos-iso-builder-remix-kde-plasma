@@ -1,0 +1,60 @@
+
+
+##
+## # AnduinOS
+##
+
+
+
+
+##
+## ## Package / AnduinOS / Dconf
+##
+
+anduinos-dconf-runtime
+
+
+
+
+##
+## ## Package / AnduinOS / Wallpapers
+##
+
+anduinos-wallpapers
+
+
+
+
+##
+## ## Package / AnduinOS / Theme
+##
+
+anduinos-fluent-gtk-theme
+anduinos-fluent-icon-theme
+
+
+
+
+##
+## ## Package / AnduinOS / Font
+##
+
+anduinos-fonts
+
+
+
+
+##
+## ## Package / AnduinOS / Plymouth
+##
+
+plymouth-anduinos
+
+
+
+
+##
+## ## Package / AnduinOS / Web Browser
+##
+
+firefox-anduinos

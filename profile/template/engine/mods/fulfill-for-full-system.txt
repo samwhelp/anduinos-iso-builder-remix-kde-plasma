@@ -1,0 +1,131 @@
+
+
+##
+## # Mods
+##
+
+
+
+
+##
+## ## Permission
+##
+
+build-permission-check
+
+
+
+
+##
+## ## Anduinos Base
+##
+
+anduinos-swap-packages
+
+
+
+
+##
+## ## Head
+##
+
+core-hostname-config
+
+
+
+
+##
+## ## Systemd
+##
+
+core-systemd-package-install
+core-machine-id-config
+
+
+
+
+##
+## ## Kernel
+##
+
+kernel-main-package-install
+kernel-initramfs-package-install
+kernel-initramfs-create
+
+
+
+
+##
+## ## Bootloader
+##
+
+core-bootloader-package-install
+
+
+
+
+##
+## ## Live Boot
+##
+
+live-casper-package-install
+live-casper-config-install
+
+
+
+
+##
+## ## Network
+##
+
+base-network-package-install
+base-network-config-install
+
+
+
+
+##
+## ## Master
+##
+
+master-package-install
+master-file-install
+
+
+
+
+##
+## ## Installer
+##
+
+installer-package-install
+installer-file-install
+
+
+
+
+##
+## ## Tail
+##
+
+base-dconf-db-update
+base-gsettings-schema-compile
+
+
+
+
+##
+## ## Tail / Kernel
+##
+
+kernel-initramfs-update
+
+
+
+
+##
+## ## Cleanup
+##
+
+core-machine-id-clear
+cleanup-task

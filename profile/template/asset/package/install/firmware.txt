@@ -1,0 +1,25 @@
+
+
+##
+## # Firmware
+##
+
+
+
+
+##
+## ## Package / Dkms
+##
+
+#dkms
+
+
+
+
+##
+## ## Package / Firmware
+##
+
+#atmel-firmware
+bluez-firmware
+#midisport-firmware

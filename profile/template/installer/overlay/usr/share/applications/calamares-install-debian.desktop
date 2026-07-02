@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install Ubuntu
+GenericName=Calamares Installer
+Exec=calamares-install-debian
+Comment=Calamares — Installer for Ubuntu Live
+Keywords=calamares;system;install;ubuntu;installer
+Icon=install-debian
+Terminal=false
+Categories=Qt;System;
+StartupWMClass=calamares
+StartupNotify=True

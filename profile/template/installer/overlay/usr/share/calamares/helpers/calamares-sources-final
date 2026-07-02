@@ -1,0 +1,38 @@
+#!/bin/sh
+#
+# Writes the final sources.list file
+#
+
+CHROOT=$(mount | grep proc | grep calamares | awk '{print $3}' | sed -e "s#/proc##g")
+RELEASE="resolute"
+
+cat << __EOF__ > $CHROOT/etc/apt/sources.list
+
+##
+## ## See http://help.ubuntu.com/community/UpgradeNotes for how to upgrade to
+##
+
+deb http://archive.ubuntu.com/ubuntu/ $RELEASE main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ $RELEASE main restricted universe multiverse
+
+deb http://archive.ubuntu.com/ubuntu/ $RELEASE-updates main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ $RELEASE-updates main restricted universe multiverse
+
+deb http://archive.ubuntu.com/ubuntu/ $RELEASE-security main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ $RELEASE-security main restricted universe multiverse
+
+##
+## ## Backports allow you to install newer versions of software made available for this release
+##
+
+deb http://archive.ubuntu.com/ubuntu/ $RELEASE-backports main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ $RELEASE-backports main restricted universe multiverse
+
+##
+## > For information about how to configure apt package sources,
+## > see the sources.list(5) manual.
+##
+
+__EOF__
+
+exit 0
