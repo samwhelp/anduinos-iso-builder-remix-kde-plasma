@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
 Name=Default Xsession
-Exec=startplasma-x11
+Exec=/usr/bin/startplasma-wayland
 Icon=
 Type=Application

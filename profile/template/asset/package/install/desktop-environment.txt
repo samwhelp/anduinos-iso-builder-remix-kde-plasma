@@ -18,8 +18,13 @@ kde-standard
 ##kde-plasma-desktop
 
 
-kwin-x11
+xwayland
+#xwayland-run
+
+
+#kwin-x11
 kwin-addons
+kwin-style-aurorae
 
 
 kde-spectacle

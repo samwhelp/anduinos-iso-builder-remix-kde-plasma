@@ -85,11 +85,10 @@ base-network-config-install
 
 
 ##
-## ## Master
+## ## Master / Package
 ##
 
 master-package-install
-master-file-install
 
 
 
@@ -100,6 +99,15 @@ master-file-install
 
 installer-package-install
 installer-file-install
+
+
+
+
+##
+## ## Master / File
+##
+
+master-file-install
 
 
 

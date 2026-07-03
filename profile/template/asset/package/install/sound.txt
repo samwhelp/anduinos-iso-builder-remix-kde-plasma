@@ -24,7 +24,10 @@
 ## ## Package / alsa-utils
 ##
 
+##
 ## install `alsa-utils` for `amixer`
+##
+
 alsa-utils
 
 
@@ -35,6 +38,7 @@ alsa-utils
 ##
 
 pamixer
+pulseaudio
 
 
 
