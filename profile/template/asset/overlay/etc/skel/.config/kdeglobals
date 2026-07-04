@@ -1,20 +1,21 @@
 [General]
 AllowKDEAppsToRememberWindowPositions=false
-ColorScheme=BreezeDark
+ColorScheme=FluentDark
 XftSubPixel=none
 fixed=Monospace,12,-1,5,50,0,0,0,0,0
 font=Sans Serif,12,-1,5,50,0,0,0,0,0
-menuFont=Sans Serif,11,-1,5,50,0,0,0,0,0
-smallestReadableFont=Sans Serif,10,-1,5,50,0,0,0,0,0
+menuFont=Sans Serif,12,-1,5,50,0,0,0,0,0
+smallestReadableFont=Sans Serif,11,-1,5,50,0,0,0,0,0
 toolBarFont=Sans Serif,11,-1,5,50,0,0,0,0,0
 
 [Icons]
-Theme=breeze-dark
+Theme=Fluent-dark
 
 [KDE]
-LookAndFeelPackage=org.kde.breezedark.desktop
+LookAndFeelPackage=com.github.vinceliuice.Fluent-round-dark
 ShowDeleteCommand=true
 SingleClick=false
+widgetStyle=kvantum
 
 [WM]
-activeFont=Sans Serif,10,-1,5,50,0,0,0,0,0
+activeFont=Sans Serif,12,-1,5,50,0,0,0,0,0

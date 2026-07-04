@@ -94,6 +94,15 @@ master-package-install
 
 
 ##
+## ## Theme
+##
+
+theme-fluent-kde-install
+
+
+
+
+##
 ## ## Installer
 ##
 

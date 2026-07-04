@@ -62,3 +62,9 @@ LayoutName=coverswitch
 [Windows]
 Placement=Centered
 RollOverDesktops=true
+
+[org.kde.kdecoration2]
+ButtonsOnLeft=M
+ButtonsOnRight=IAX
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Fluent-round-dark
