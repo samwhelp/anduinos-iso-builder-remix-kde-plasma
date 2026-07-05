@@ -122,6 +122,16 @@ master-file-install
 
 
 ##
+## ## Locale
+##
+
+basic-language-pack-install
+basic-locale-config-install
+
+
+
+
+##
 ## ## Tail
 ##
 
