@@ -6,6 +6,14 @@
 
 
 
+##
+## ## Package / debconf
+##
+
+dialog
+
+
+
 
 ##
 ## ## Package / Apt
