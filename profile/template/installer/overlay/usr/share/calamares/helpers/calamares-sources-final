@@ -1,7 +1,17 @@
 #!/bin/sh
-#
-# Writes the final sources.list file
-#
+
+##
+## The Live System already has APT sources configured in the `/etc/apt/sources.list.d/ubuntu.sources` file.
+## Therefore, we do not need to configure them in `/etc/apt/sources.list`,
+## thereby avoiding warning messages such as "configured multiple times".
+##
+
+exit 0
+
+
+##
+## Writes the final sources.list file
+##
 
 CHROOT=$(mount | grep proc | grep calamares | awk '{print $3}' | sed -e "s#/proc##g")
 RELEASE="resolute"
