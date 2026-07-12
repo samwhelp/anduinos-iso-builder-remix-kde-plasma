@@ -52,5 +52,11 @@ only-combine:
 
 
 tips-next-step:
-	@echo '[Next Step]: cd ~/work/anduinos-iso-builder-remix-base/iso-profile'
+	@echo
+	@echo "##"
+	@echo "## ## Next Step:"
+	@echo "##"
+	@echo
+	@echo "cd ~/work/anduinos-iso-builder-remix-kde-plasma/iso-profile"
+	@echo
 .PHONY: tips-next-step
