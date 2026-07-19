@@ -11,7 +11,14 @@
 ## ## Package / debconf
 ##
 
+debconf
+debconf-i18n
+debconf-utils
+
 dialog
+whiptail
+
+libterm-readline-gnu-perl
 
 
 
@@ -21,6 +28,14 @@ dialog
 ##
 
 apt-file
+apt-utils
+
+
+
+
+##
+## ## Package / Apt / GUI
+##
 
 gdebi
 

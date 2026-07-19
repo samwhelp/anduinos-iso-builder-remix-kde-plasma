@@ -12,6 +12,8 @@
 ##
 
 iputils-ping
+iproute2
+iw
 
 
 
