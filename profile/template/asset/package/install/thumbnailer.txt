@@ -1,0 +1,17 @@
+
+
+##
+## # Thumbnailer
+##
+
+
+
+
+##
+## ## Package / Thumbnailer
+##
+
+tumbler
+tumbler-plugins-extra
+heif-thumbnailer
+ffmpegthumbs
