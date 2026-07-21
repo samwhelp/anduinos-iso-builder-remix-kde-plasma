@@ -37,6 +37,11 @@
 
 ## Link
 
+| Link | GitHub |
+| ---- | ------ |
+| [AnduinOS Kde Plasma Adjustment](https://samwhelp.github.io/anduinos-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/anduinos-kde-plasma-adjustment) |
+| [AnduinOS Adjustment](https://samwhelp.github.io/anduinos-adjustment/) | [GitHub](https://github.com/samwhelp/anduinos-adjustment) |
+
 
 
 
