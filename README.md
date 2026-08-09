@@ -1,6 +1,6 @@
 
 
-# anduinos-iso-builder-remix-kde-plasma
+# anduinos-live-create-remix-kde-plasma
 
 
 
@@ -9,7 +9,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [anduinos-iso-builder-remix-kde-plasma](https://samwhelp.github.io/anduinos-iso-builder-remix-kde-plasma/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-kde-plasma) |
+| [anduinos-live-create-remix-kde-plasma](https://samwhelp.github.io/anduinos-live-create-remix-kde-plasma/) | [GitHub](https://github.com/samwhelp/anduinos-live-create-remix-kde-plasma) |
 
 
 
@@ -26,11 +26,11 @@
 
 | Project |
 | ------- |
-| [anduinos-iso-builder-template](https://github.com/samwhelp/anduinos-iso-builder-template) |
+| [anduinos-live-create-template](https://github.com/samwhelp/anduinos-live-create-template) |
 | `+` |
-| [anduinos-iso-builder-remix-kde-plasma](https://github.com/samwhelp/anduinos-iso-builder-remix-kde-plasma) |
+| [anduinos-live-create-remix-kde-plasma](https://github.com/samwhelp/anduinos-live-create-remix-kde-plasma) |
 | `=` |
-| [anduinos-iso-builder-respin-kde-plasma](https://github.com/samwhelp/anduinos-iso-builder-respin-kde-plasma) |
+| [anduinos-live-create-respin-kde-plasma](https://github.com/samwhelp/anduinos-live-create-respin-kde-plasma) |
 
 
 
