@@ -57,6 +57,6 @@ tips-next-step:
 	@echo "## ## Next Step:"
 	@echo "##"
 	@echo
-	@echo "cd ~/work/anduinos-iso-builder-remix-kde-plasma-theme-breeze-dark/iso-profile"
+	@echo "cd ~/work/anduinos-live-create-remix-kde-plasma-theme-breeze-dark/iso-profile"
 	@echo
 .PHONY: tips-next-step
